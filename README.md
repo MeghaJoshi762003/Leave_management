@@ -1,5 +1,17 @@
 # Leave Management
 
+## Features Implemented
+
+- **Login**: User authentication for accessing the leave management system.
+- **Logout**: Option for users to securely log out of the system.
+- **Apply for Leave**: Functionality for employees to submit leave requests.
+- **Accept and Reject Leave**: Ability for managers to review and make decisions on leave requests.
+- **Team Summary**: Overview of leave status and other relevant information for the team.
+- **Leave Chart**: Visual representation of leave data to help track and analyze leave trends.
+- **Profile**: Management of user profile information.
+- **Validations**: Ensuring data integrity and correctness through various input and system validations.
+
+
 ## Login Page
 ![Login Page](https://github.com/user-attachments/assets/5f634381-5e4c-4a9b-9321-dc1709a9cbcd)
 
@@ -15,8 +27,9 @@
 ## Profile Info
 ![Profile Info](https://github.com/user-attachments/assets/30c22c6d-4f36-4202-911e-dc4d4a0a8041)
 
+
 ## Request for Manager
-![Request for Manager](https://github.com/user-attachments/assets/98e2a1cc-bfea-4b24-8072-631d17ad3f69)
+![Request for Manager](https://github.com/user-attachments/assets/3effc7a6-899b-4d0a-a521-aec2b2ba98ce)
 
 ## My Leaves
-![My Leaves](https://github.com/user-attachments/assets/40103dac-ff66-4d73-acb5-0ac61334ac21)
+![My Leaves](https://github.com/user-attachments/assets/667a8479-ae4b-4459-85c7-52b9633272cd)
